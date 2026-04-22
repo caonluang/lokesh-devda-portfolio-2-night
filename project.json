@@ -1,0 +1,23 @@
+{
+  "overview": "A cinematic, interactive portfolio website for Lokesh Devda — Graphic Designer & Web Developer from Indore, India. Features dark luxury aesthetics with neon glow, glassmorphism, and immersive 3D animations across 7 sections.",
+  "features": [
+    "Cinematic hero with photo breaking out of glass frame and letter-by-letter text animation",
+    "Interactive work categories grid with 3D hover effects and 9-12 image mosaics per category",
+    "Gallery view with masonry grid and glass lightbox",
+    "Experience timeline with scroll-triggered stagger reveals",
+    "Skills showcase with animated circular progress rings",
+    "Custom neon cursor with follower ring",
+    "Smooth inertia scrolling and magnetic buttons"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "graphic-design",
+    "dark-luxury",
+    "glassmorphism",
+    "gsap",
+    "animations",
+    "neon"
+  ],
+  "last_updated": "2026-04-22T17:17:58.009Z"
+}
